@@ -74,7 +74,7 @@ Se iniciarán ambas máquinas (Kali Linux y Metasploitable) y se verificará la 
 
     ![kali](/img/K5.png)
 
-    ![kali](/img/K5.2.png.)
+    ![kali](/img/K5.2.png)
 
 
 

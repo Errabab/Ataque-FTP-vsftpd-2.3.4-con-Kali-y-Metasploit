@@ -82,8 +82,7 @@ Se iniciarán ambas máquinas (Kali Linux y Metasploitable) y se verificará la 
 
    - Usa el siguiente comando en **Metasploit**:
 
-     ```
-     bash
+     ```bash
      search vsftpd_234
      ```
       ![kali](/img/K6.png)

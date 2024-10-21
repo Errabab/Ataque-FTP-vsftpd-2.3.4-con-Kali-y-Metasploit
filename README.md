@@ -125,3 +125,12 @@ Se iniciarán ambas máquinas (Kali Linux y Metasploitable) y se verificará la 
     `set PAYLOAD payload/cmd/unix/interact`
       
     ![kali](/img/K9.png)
+9. Por último, solo quedará ejecutar el exploit, con el comando `exploit` (o `run`). A partir de aquí, si todo ha ido bien, en unos segundos Metasploit mostrará un mensaje indicando que se ha abierto una sesión en un terminal de la máquina víctima (y lo hará como root). Puedes comprobar que estás en la máquina víctima tecleando comandos ls y cd para ver los archivos y directorios de la máquina víctima.
+
+   ![kali](/img/K10.png)
+   
+11. Para ver con más claridad que tenemos el control de la máquina víctima, ejecuta un comando "reboot", y verás que...¡¡ La máquina víctima se reinicia!!.
+    
+   ![kali](/img/K11.png)
+
+    
